@@ -1,4 +1,4 @@
-;;; ob-sclang.el --- SCLang support for Org-mode Babel
+;;; ob-sclang.el --- SCLang support for Org Mode Babel.
 ;;; -*- coding: utf-8 -*-
 
 ;; Copyright (C) 2017-2021 Free Software Foundation, Inc.
@@ -6,6 +6,7 @@
 ;; Authors: stardiviner <numbchild@gmail.com>
 ;; Package-Version: 0.1
 ;; Keywords: babel sclang
+;; Homepage: https://repo.or.cz/ob-sclang.git
 
 ;; This file is not part of GNU Emacs.
 
